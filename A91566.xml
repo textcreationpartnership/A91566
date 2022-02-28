@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Common-wealth of England.</title>
+            <author>Pearson, Anthony, 1628-1670?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91566</idno>
+            <idno type="STC">Wing P992</idno>
+            <idno type="STC">Thomason E714_10</idno>
+            <idno type="STC">ESTC R207240</idno>
+            <idno type="EEBO-CITATION">99866305</idno>
+            <idno type="PROQUEST">99866305</idno>
+            <idno type="VID">118574</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118574)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E714[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Common-wealth of England.</title>
+                  <author>Pearson, Anthony, 1628-1670?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed at end: Anthony Pearson.</note>
+                  <note>Annotation on Thomason copy: "Octob: 3 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>In the title the fourth letter of "Parliament" has been altered to an L.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118574:1" rendition="simple:additions"/>
+            <head>TO THE PARLIAMENT OF THE Common-wealth OF ENGLAND.</head>
+            <opener>
+               <salute>Chriſtian Friends,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Am moved of the Lord to preſent this Paper to you, it requires your ſpeedy conſideration; and therefore as you love your own ſouls defer it not: the crying ſin of perſecuting the righteous Seed of God, it now brought to your door, and you muſt account for every days delay; ariſe, ſtand up and execute Juſtice and Judgement, that you may be hid in the day of the Lords fierce wrath, which is at hand.</p>
+            <p>I come not to you to clamour or complain, nor to petition any thing from you, but to diſcharge my duty in obedience to the command of the Lord, in laying before you the afflictions and ſufferings of the innocent by the hands of your Miniſters and Servants, that ſo you may acquit your ſelves, leſt the guilt fall upon your own heads.</p>
+            <p>
+               <seg rend="decorInit">I</seg>N the Northen Parts of this Nation, God hath raiſed and is raiſing up his own Seed in many people, according to his promiſes; which hath layen in bondage in a ſtrange Land for many generations, and is daily encreaſing their number to the praiſe of his own name, which gathers their
+<pb n="2" facs="tcp:118574:2"/>hearts out of all the worlds Wayes, Worſhips, Cuſtoms, Riches and Pleaſures, to live with the Lord in Spirit, and to be taught of him alone; Whereat the formal Profeſſors of the world, and the carnal-religious of theſe dayes are ſo much enraged, that in every place, to the utmoſt of their power, they beat, wound, ſtone, impriſon and perſecute them; as it was in all Generations, as the Scriptures witneſs, <hi>He that is born after the Fleſh, will perſecute him that is after the Spirit.</hi>
+            </p>
+            <p>And the reaſon why theſe People above all others are ha<g ref="char:EOLhyphen"/>ted by all ſorts of men, is, becauſe the righteous Spirit of God that rules in them, as it will not comply or have fel<g ref="char:EOLhyphen"/>lowſhip with the wicked in their Pride, luſts, pleaſures, cuſtoms, Worſhips, faſhions and unfruitful works of darkneſs, ſo will it not wink at them, but reprove them where and in whomſoever they are; it ſpares not a man becauſe he hath a flattering Title, nor paſſeth by him that is rich or decked with gay clothes, but reproves all, yea in the gate, without reſpect of Perſons; and therefore is it that ſnares are laid for them in every place to make them offenders for a word; And as the wicked are thereby provoked, ſo are their cruel minds encouraged by the Lamb-like diſpoſitions of theſe people; for having the ſame Spirit that was in Chriſt Jeſus, they are like-minded, they do not reſiſt the evil, but like Sheep are led to the ſlaughter and open not their mouthes; being curſed they bleſs, he that takes their cloak, may take their coat too; to him that ſmites one cheek, they offer alſo the other; And as they ſave not themſelves, but caſt their care on the Lord, ſo they ſeek not for relief to any man, but patiently wait on the Lord for his deliverance, bearing ſtripes, wounds, Priſons, reproach and ſhame with joy, knowing that through many tribulations they muſt enter the Kingdom; praying even for their Perſecutors, that their ſin may not be laid to their charge. And being raiſed up with Chriſt, and made partakers of the Life which is eternal, their hearts burn with love to all Creatures; and therefore in the Spirit and Power of the Lord they are carried into the publike meetings of the world, to declare his word, and to reaſon and diſpute againſt their
+<pb n="3" facs="tcp:118574:2"/>outſide profeſſion, to bring them to repentance, that they may know the true God, whom they ignorantly worſhip, which dwels not in Temples made with hands, but in the humble and contrite hearts, that tremble at his word, as the man<g ref="char:EOLhyphen"/>ner and practiſe of Jeſus Chriſt and his Apoſtles was. And for theſe things did about 30 of them lie in Priſon when I came lately from thence, and I hear ſix more are ſince commit<g ref="char:EOLhyphen"/>ted; thoſe that are ſet to do juſtice, being of the ſame nature and ſpirit with the rude world, take part with them in their wickedneſs, encouraging their hands, and laying the blame upon the innocent, calling them diſturbers of the peace, movers of Sedition, turbulent perſons, when its onely the <hi>man of ſin</hi> they diſquiet; and all the uproars of the brutiſh people that live in wrath, anger, and quarrels, are laid to their charge; as it was in all Generations.</p>
+            <list>
+               <head>A Liſt of perſons impriſoned in the Counties of <hi>York, Cum<g ref="char:EOLhyphen"/>berland</hi> and <hi>Weſtmerland,</hi> for the teſtimony of a good conſci<g ref="char:EOLhyphen"/>ence, and for witneſsing the truth of the Lord; with the time of their commitments, and what offences are pretended againſt them.</head>
+               <item>
+                  <list>
+                     <head>Yorkſhire.</head>
+                     <item>
+                        <hi>Thomas Aldam</hi> committed the 15 of <hi>May</hi> 1652. for diſturbing a Prieſt as is pretended, though he ſpoke nothing till the Prieſt ſpoke to him.</item>
+                     <item>
+                        <hi>Eliza. Hooton</hi> committed the 14 of <hi>June</hi> 1652. for the like.</item>
+                     <item>
+                        <hi>Mary Fiſher</hi> committed the 2 of <hi>Aug.</hi> 1652. for the like.</item>
+                     <item>
+                        <hi>Jane Holmes</hi> committed the 24 of <hi>Aug.</hi> 1652. as a wanderer.</item>
+                     <item>
+                        <hi>Chriſtop. Gilburn</hi> committed the 12 of <hi>November</hi> 1652. for ſeveral miſdemeanors, but nothing mentioned.</item>
+                     <item>
+                        <hi>John Harwood</hi> committed the 12 of <hi>Novemb.</hi> 1652 as diſordered perſons living contrary to the Law, but nothing mentioned.</item>
+                     <item>
+                        <hi>Mar. Lambert</hi> committed the 12 of <hi>Novemb.</hi> 1652 as diſordered perſons living contrary to the Law, but nothing mentioned.</item>
+                     <item>
+                        <hi>Thomas Townroe</hi> after three Moneths impriſonment for ſpeaking to a Prieſt, recommitted 19 <hi>July</hi> 1653. Becauſe he would not make ſubmiſſion to the Prieſt, and find ſureties not to do ſo again.</item>
+                     <item>
+                        <hi>Thom. Goodyear</hi> committed the 22 of <hi>July</hi> 1653. for re<g ref="char:EOLhyphen"/>fuſing to finde Sureties for good behaviour.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="4" facs="tcp:118574:3"/>
+                  <list>
+                     <head>At the Aſsizes held after <hi>Lammas</hi> in the year <hi>1652.</hi>
+                     </head>
+                     <item>
+                        <hi>Thomas Aldam</hi> was called before the Judge of Aſſize, and for not putting off his Hat, was fined — 40 <hi>l.</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <item>
+                              <hi>Eliz. Hooton</hi>
+                           </item>
+                           <item>
+                              <hi>Mary Fiſher</hi>
+                           </item>
+                           <item>
+                              <hi>Jane Holmes</hi>
+                           </item>
+                        </list> for ſpeaking to the Judg, was fined each-200 <hi>l.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>At the Aſsizes held after <hi>Candlemas</hi> in the beginning of the year <hi>1653.</hi>
+                     </head>
+                     <item>
+                        <hi>John Harwood</hi> were called before the Judge of Aſſize, and for not putting off their Hats were fined each — 5 <hi>l.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtop. Gilburn</hi> were called before the Judge of Aſſize, and for not putting off theit Hats were fined each — 5 <hi>l.</hi>
+                     </item>
+                     <item>
+                        <hi>Mar. Lambert</hi> were called before the Judge of Aſſize, and for not putting off their Hats were fined each — 5 <hi>l.</hi>
+                     </item>
+                     <item>Theſe are detained in priſon for their Fines.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Cumberland</head>
+                     <item>
+                        <hi>George Fox</hi> committed 1 <hi>Aug.</hi> 1653. for ſaying he was the Son of God and other words, which they ſay are blaſphemy, and yet no one particular within the Act.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Weſtmerland.</head>
+                     <item>
+                        <hi>Jo. Morland</hi> committed by the Judge of Aſsize at <hi>Apleby</hi> in <hi>Auguſt</hi> laſt, for refuſing to be ſworn on a Jury, and fined. — 5 <hi>l.</hi>
+                     </item>
+                     <item>
+                        <hi>Miles Halhead</hi> committed 14 <hi>Aug.</hi> 1653. for ſpeaking in the Steeple-houſe after the Prieſt had done.</item>
+                     <item>
+                        <hi>Margaret Gilpin</hi> committed the ſame day, for ſpeaking in the Steeple-houſe before the Prieſt had done.</item>
+                     <item>
+                        <hi>Tho. Caſley</hi> committed the 21 of <hi>Aug.</hi> 1653. for ſpeaking in the Steeple-houſe when the Prieſt was ſilent.</item>
+                     <item>
+                        <hi>Henry Ward</hi> committed he 28 of <hi>Aug.</hi> 1653. for ſpeaking in the Steeple-houſe after all was ended.</item>
+                     <item>
+                        <hi>Chriſtop. Atkinſon</hi> committed 4 <hi>Sept.</hi> 1653. for ſpeaking in the Steeple-houſe after the Prieſt had ended his prayer.</item>
+                     <item>
+                        <hi>John Aray</hi> committed the ſame day for going with him and ſaying nothing.</item>
+                     <item>
+                        <hi>Francis Howgill</hi> committed 4 of <hi>Sept.</hi> 1653. for ſpeaking in the Steeple-houſe after all was ended.</item>
+                     <item>
+                        <hi>Mary Colliſon</hi> committed 28 <hi>Aug.</hi> 1653. for ſaying (while the Prieſt was ſpeaking) Tremble before the Lord.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="5" facs="tcp:118574:3"/>
+                  <list>
+                     <head>11 <hi>September</hi> 1653.</head>
+                     <item>
+                        <hi>Margaret Smith</hi> committed for ſpeaking to the Prieſt.</item>
+                     <item>
+                        <hi>Robert Newby</hi> for ſpeaking to the Mayor.</item>
+                     <item>
+                        <hi>Dorothy Waugh</hi> for ſpeaking to the Prieſt.</item>
+                     <item>
+                        <hi>Agnes Wilkinſon</hi> for ſpeaking to the Mayor.</item>
+                     <item>
+                        <hi>Mary Dodding</hi> for ſpeaking to the Prieſt.</item>
+                     <item>
+                        <hi>Edmond Adlington</hi> for ſpeaking to the Prieſt.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>A Maid in <hi>Lancaſhire,</hi> whoſe name I know not, committed at <hi>Lan<g ref="char:EOLhyphen"/>caſter</hi> for ſpeaking to a Prieſt.</head>
+                     <item>
+                        <hi>Thomas Holm,</hi> 28 <hi>Auguſt</hi> 1653.</item>
+                     <item>
+                        <hi>Alice Wilſon,</hi> 1 <hi>September</hi> 1653.</item>
+                     <item>
+                        <hi>Margaret Newby,</hi> 1 <hi>Septem.</hi> 1653.</item>
+                     <item>
+                        <hi>Jane Waugh,</hi> 4 <hi>September</hi> 1653.</item>
+                     <item>
+                        <hi>Mary Howgil,</hi> 4 <hi>September</hi> 1653.</item>
+                     <item>
+                        <hi>Agnes Wilkinſon</hi> 3 <hi>Septemb.</hi> 1653.</item>
+                     <item>
+                        <hi>Dorothy Waugh,</hi> 6 <hi>Septemb.</hi> 1653.</item>
+                     <item>
+                        <hi>Mabel Warriner</hi> 6 <hi>Septemb.</hi> 1653.</item>
+                     <item>
+                        <hi>Anne Tompſon</hi> 4 <hi>September</hi> 1653.</item>
+                     <item>
+                        <hi>Eliza. Levens,</hi> 4 <hi>September</hi> 1653.</item>
+                     <item>
+                        <hi>Eliza. Bateman,</hi> 4. <hi>Septemb.</hi> 1653.</item>
+                  </list>
+               </item>
+            </list>
+            <p>All theſe perſons being moved to go to a Juſtice of Peace in <hi>Ken<g ref="char:EOLhyphen"/>dal,</hi> to ſpeak to him againſt his perſecution and Tyranny, and to warn him of the evil to come, were by him commited to Priſon.</p>
+            <p>The words ſpoken by them ſeverally to him, as alſo the ſub<g ref="char:EOLhyphen"/>ſtance of what the others ſpoke in the Steeple-houſes might have been ſet down, but this is not intended as an accuſation of any, nor to ſhew forth their ignorance or weakneſs.</p>
+            <p>Oh ye Heads and Rulers of the people, raiſed up to do Righteouſneſs and Juſtice! Look upon theſe poor deſpiſed Creatures, what evil is found in them? what wickedneſs have they committed? not one of ſix and thirty comitted for a vice; is it not time to appear for the innocent, and to ſave him from the ſeed of evil-doers? what are the offences laid to their charge? they will not put off their hats, no not to a Magiſtrate; are not men aſhamed to call themſelves Chriſtians, and pretend liberty for tender Conſciences, and yet ſtand upon ſuch trifles, and to fine and impriſon for it? is not obedience to the Magiſtrate, and a chearful ready performance of his juſt commands, his greateſt honour? that he may ſay to this man go, and he goeth; and to another do this, and he doth it; but now the life of all Religion is placed in outſide ſhadows and formalities.</p>
+            <p>Some of them are puniſhed becauſe they were Strangers in the place where they were apprehended; what would theſe men that puniſh them have done with Chriſt that had not whereon to lay
+<pb n="6" facs="tcp:118574:4"/>his head? and doth not the Scripture require reſpect to them above all others? were they chargeable to any but their friends who entertaiend them with joy? but it ſeems the Capital Crime is to ſpeak in the pub<g ref="char:EOLhyphen"/>like Aſſemblies of the People; and was it not the practice of Chriſt and his Apoſtles to ſpeak in the Synagogues, and where the people were met together? I know it makes the Prieſts rage, becauſe they are there<g ref="char:EOLhyphen"/>by detected; and it is they that fill the world with uproars and tumults, and ſo they have done in all Generations; what have they been doing all their lives, and their Predeceſſors, that have ſtill ſuch brutiſh raging people to their flocks, wolves and not Sheep? but they run and were never ſent, therefore do they not profit the people, and down ſhall the falſe Prophet and the Beaſt that holds him up; his time is at hand, al the Powers of the earth ſhall not ſave him; ſome ſay its not contrary to Law to ſpeak after the Prieſt hath done. Why then are ſo many of theſe people in priſon for it? but why is it an offence to ſpeak before he hath done, there are intervalls between his ſeveral exerciſes? It is anſwered, it breeds tumults and diſtraction among the people; Let the Magiſtrate look to his duty to puniſh him that breaks the Peace, or of<g ref="char:EOLhyphen"/>fers violence to any, &amp; that will ſoon be prevented; are they Churches? then may all propheſie, and if any thing be revealed to him that ſits by, let the firſt hold his peace; Are they aſſemblies of the world? then why doth the Magiſtrate interpoſe his Authority to hold up their falſe wor<g ref="char:EOLhyphen"/>ſhip, and not ſuffer the Meſſengers of the Lord to call people to the truth, and leave all men to manifeſt the power of the ſpirit they ſpeak from; For great is the truth, and will prevail; and God neither needs nor requires the help of man to uphold or ſpread his Goſpel. The Prieſt many times ſpeaks thoſe things, to which, if a preſent anſwer might be made, before the peoples minds and memories were diſtracted with a multitude of vain Notions, the truth might be made manifeſt, and things that differ diſcerned; And let all that fear the Lord conſider, is it any thing but a carnal humane invented ſtory they tell, ſtudied, and brought forth by their own wit and learning? And is not the word of the Lord a more divine thing? doth not he that hath his own time when to ſpeak, what to ſay, and when to be ſilent, ſtand in the will of man? be ſilent oh reaſon, thou knoweſt not the mind of the Lord. Doth not the Miniſter of God ſpeak the word of the Lord from his own mouth? When, where, and how the Lord pleaſe; For it is not he that ſpeaks, but the Holy Ghoſt that dwells in him; He that hath his words from his own wit and memory, may ſpeak and be ſilent when
+<pb n="7" facs="tcp:118574:4"/>he will; he that hath them from the Holy Ghoſt, muſt ſpeak as he is moved, and as they are brought to his remembrance by the ſpirit of truth? be carefull how ye meddle in theſe things! Oh ye powers of the Earth, men have long been taught one by another, but now the Lord is come to teach his people himſelf; the Scriptures abundantly witneſs, that in the laſt times ſhall be the greateſt pourings out of the Spirit; men ſhall not need to run to the broken Ciſterns of Univerſities and humane Studies, for all the people of the Lord ſhall be taught of the Lord; if you ſay, yea, but it muſt be by means; I anſwer, by no other but his own Spirit; whence have they their words that ſpeak to you, which you think muſt be the means? are they not from their own brains? but that wiſe eye by which they ſearch and find out what they preach, knows not the things of the Spirit of God, for they are fooliſhneſs to it, and to it they are hid, and a myſtery not to be found out: Ceaſe then from man, oh all ye people of the Earth, and hearken to the voyce of the Spirit of the Lord, which you may hear in your conſciences, rebuking and reproving you for ſin and wickedneſs; and minding and obeying that, it will bring you into the fear of the Lord, which is the beginning of wiſdom, and the fear of the Lord is to depart from all iniquity; ſo will you come to know what a ten<g ref="char:EOLhyphen"/>der conſcience means; and ye wil then ſuffer all manner of torments ra<g ref="char:EOLhyphen"/>ther then defile your conſciences by the pollutions and vanities of the world; and the myſterie of Faith is held in a pure conſcience, which worldly Religion knows not; and loving and obeying that voyce, and walking in the light that ſhews you ſin and evil, you will be brought to underſtand the Scriptures, and to have fellowſhip with God and Je<g ref="char:EOLhyphen"/>ſus Chriſt, and with one another in the Spirit, and to have your mindes purified, and the holy Seed will be raiſed up, and the body of ſin de<g ref="char:EOLhyphen"/>ſtroyed, and Chriſt will reign and rule in you.</p>
+            <p>Many of theſe people are committed becauſe they will not finde Sureties to be of the good behaviour; and I hear ſome ſaying, Are they not acceſſary to their own ſufferings, that will not do it when they intend to be of good behaviour? I Anſwer, They are perſons of no ill behaviour, but are bound to good behaviour by the righteous law of God written in their hearts; and therefore, they may not con<g ref="char:EOLhyphen"/>feſs themſelves guilty by ſubmitting to a puniſhment; the Law intends the reſtraint of evil doers; Again, they are required to finde Sureties, either becauſe they have ſpoken in a Steeple-houſe, or to a Magiſtrate; who dare binde himſelf not to obey the command of the
+<pb n="8" facs="tcp:118574:5"/>Lord? ſhall <hi>Moſes</hi> be bound not to go to <hi>Pharoah?</hi> Shall Tyrants trample on the Lords people, and ſhall not the Lord by his Prophets reprove i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? ſhall the Lord have people in a Congregation, and ſhall he not ſend his Meſſengers to call them out? men may impriſon and reſtrain the body, but they cannot ſtop the mouth, nor may the Saints ſtop their own. How ſhall all the wickedneſſes of the earth be reproved, but by the righteous ſpirit of the Lord in his people? By the Act of Queen <hi>Maries,</hi> after three months impriſonment, a ſubmiſſion muſt be made to the Prieſt, and Sureties be given for good behaviour; that is, not to of<g ref="char:EOLhyphen"/>fend ſo again. Oh ye Members of the Parliament that fear the Lord! Conſider, ſhall the righteous bow to the wicked, or ſhall the ſeed of God be bound not to reprove the man of ſin? The great work of the Lord is not to throw down one man to ſet up another; But to throw down the unrighteous ſeed, that the holy ſeed may be raiſed up, and have do<g ref="char:EOLhyphen"/>minion; If you reſtrain the Lord in his work, all the Armies in the World ſhall not ſave you; all theſe witneſſes are now raiſed up to ſhew you where the way is ſtopped, and the Lord hath herein made it known to you; its not the releaſe of the Priſoners alone that he requires; but to make a free way for the Sons of <hi>Zion;</hi> Here you are brought to a ſtrait, look to it; For as you deal in this matter, ſo ſhall you be eſtabliſhed; Should I tell you in all particulars how far the ignorant zeal of Judges, and Juſtices hath tranſported them beyond the bounds of Law, of reaſon; Nay, of humanity, you would wonder, and ſay, theſe men are not fit to be Judges of things pertaining to the Conſcience; Should I Relate the Beatings, Woundings, Stonings, Baitings with Maſtiff Dogs, and Impriſonments, that theſe poor people have ſuffered in Cities, Towns, Villages and Steeple-houſes, I might fill a volumn; but I come not to make complaints againſt any in particular, and therefore I have concealed all the perſecuters names. Be not affrighted by reports, were not the beſt of men always accounted the worſt, the off-ſcouring of all things? they are above all others (I know it) Innocent, harmleſs, peaceable; they diſpute not Authority with any man, nor queſtion Forms of Government, nor trouble their heads what becomes of the World, but as Strangers and Pilgrimes they have their converſation on the earth, wandring to and fro, ſeeking another City. Some of them are committed for other things; one becauſe he would not ſwear; Doth not Chriſt and his Apoſtle <hi>James</hi> poſitively forbid all ſwearing? and where do we find any of the Saints ſwearing after the comming of Chriſt? Its not long till a light will ſhine in this Nation, to ſhew the deceits of this and many other like things; I cannot herein ſay more to particulars, I have done my duty, the ſin lyes at your door; Do what ſeems good to you; conſider, ſcruples of conſcience are not obvious to every mans reaſon, if they were, no liberty need be pleaded for tender conſciences.</p>
+            <closer>
+               <signed>A Servant of the Truth, <hi>Anthony Pearſon.</hi>
+               </signed>
+               <dateline>
+                  <date>The moneth called <hi>Octob.</hi> 3. 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
